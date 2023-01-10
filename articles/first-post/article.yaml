@@ -1,0 +1,14 @@
+title: "New Blog, New First Post"
+blurb: |>
+  Isn't it great to move blog platforms every few years? I think so too.
+
+  That's why I'm back on my own custom-made blog after more than a decade!
+
+bannerImageFilename: cat-typing.jpg
+createdOn: 1/10/2023
+
+attachments:
+  body:
+    mimetype: text/markdown
+    filePath: body.md
+

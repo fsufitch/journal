@@ -1,0 +1,22 @@
+categories:
+  tech:
+    name: General Tech
+    articles: []
+  
+  software:
+    name: Programming
+    articles: []
+  
+  cuisine:
+    name: Cuisine
+    articles: []
+  
+  gaming:
+    name: Gaming
+    articles: []
+  
+  unlisted:
+    name: Unlisted
+    hidden: true
+    articles: []
+
