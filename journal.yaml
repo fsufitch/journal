@@ -1,11 +1,13 @@
 categories:
   tech:
     name: General Tech
-    articles: []
+    articles:
+      - first-post
   
   software:
     name: Programming
-    articles: []
+    articles:
+      - first-post
   
   cuisine:
     name: Cuisine
@@ -14,6 +16,11 @@ categories:
   gaming:
     name: Gaming
     articles: []
+
+  et-cetera:
+    name: Et Cetera
+    articles:
+      - first-post
   
   unlisted:
     name: Unlisted
