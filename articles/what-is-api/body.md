@@ -18,10 +18,10 @@ That’s easy! Just check [Wikipedia](https://en.wikipedia.org/wiki/API):
 
 If that did not totally explain it for you, don’t fret. The API is one of those concepts that is intuitive, but requires a lot of words to define. To understand what the definition is getting at, let’s look at a real world parallel:
 
+## The “postal service” API
+
 :::imagecard right letter.webp
 :::
-
-## The “postal service” API
 
 Suppose you work as a clerk at a university. It’s graduation time, and you must somehow deliver the new graduates’ diplomas to their recipients. The most straightforward way to do this is to put the diplomas in a big bag, then go find the students to give them their respective diplomas. Simple, right?
 
@@ -78,7 +78,7 @@ As you may have noticed, the term “API” is a rather broad one. It really can
 
 There can be multiple APIs to do the same thing (like DirectX and OpenGL), or APIs that use other APIs in order to add more features and make them easier to use, like the Python [PRAW library](https://praw.readthedocs.org/en/stable/), which simplifies interacting with Reddit by letting the developer not care about the “web” aspect.
 
-:::imagecard right i-herd-u-liek-apis.webp
+:::imagecard center i-herd-u-liek-apis.webp
 :::
 
 ## Wrapping up
