@@ -1,0 +1,14 @@
+title: "What is this “API” thing?"
+blurb: |
+  The word “API” is getting thrown around a lot lately, and increasingly so in non-technical contexts.
+
+  What really is an API though?
+
+bannerImageFilename: letter.webp
+createdOn: 2016-02-08
+
+attachments:
+  body:
+    mimetype: text/markdown
+    filePath: body.md
+

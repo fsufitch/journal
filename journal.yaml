@@ -3,6 +3,7 @@ categories:
     name: General Tech
     articles:
       - first-post
+      - what-is-api
   
   software:
     name: Programming
