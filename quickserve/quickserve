@@ -27,6 +27,7 @@ while true; do
         cut -d' ' -f2 | (
             read uri
             echo "[$(date)] $uri" >&2
+            uri="$(pwd)$uri"  # serve relative to cwd
             if [ -d "$uri" ]; then
                 escuri="$(echo "$uri" | sed -e "s/'/\&#039;/" | sed -e 's/>/\&gt;/' | sed -e 's/</\&lt;/')"
                 echo "<h2>Directory listing for $escuri</h2>" > $output_buffer
@@ -45,6 +46,7 @@ while true; do
                 echo "Connection: close"
                 echo "Content-Type: text/html"
                 echo "Content-Length: $(stat $output_buffer | cut -d' ' -f8)"
+                echo "Access-Control-Allow-Origin: *"
                 echo
                 cat $output_buffer
             elif [ -f "$uri" ]; then
@@ -53,6 +55,7 @@ while true; do
                 echo "Connection: close"
                 echo "Content-Type: $mime"
                 echo "Content-Length: $(stat "$uri" | cut -d' ' -f8)"
+                echo "Access-Control-Allow-Origin: *"
                 echo
                 cat "$uri"
             else
@@ -60,6 +63,7 @@ while true; do
                 echo "Connection: close"
                 echo "Content-Type: text/html"
                 echo "Content-Length: 19"
+                echo "Access-Control-Allow-Origin: *"
                 echo
                 echo "<h2>Not Found</h2>"
             fi
