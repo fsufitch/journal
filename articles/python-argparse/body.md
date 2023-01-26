@@ -5,7 +5,7 @@ of good ones out there, like the [official one](https://docs.python.org/3/howto/
 :::
 
 Suppose you need to write a `calculator.py` script which can add, subtract, multiply, or divide two numbers.
-It needs to let the user manipulate the behavior using CLI flags, and have a usefuil `--help`
+It needs to let the user manipulate the behavior using CLI flags, and have a useful `--help`
 message. Does that sound scary? Does it sound like you need to write something like this?
 
 ```python
