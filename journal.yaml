@@ -9,6 +9,7 @@ categories:
     name: Programming
     articles:
       - first-post
+      - python-argparse
   
   cuisine:
     name: Cuisine

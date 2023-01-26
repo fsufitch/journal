@@ -1,0 +1,13 @@
+title: Graceful Arguments in Python with Argparse
+blurb: |
+       There is no excuse for messy argument parsing in Python scripts.
+       Why? The fantastic built-in "argparse" library, of course.
+
+bannerImageFilename: argparse-meme.jpg
+createdOn: 01/26/2023
+
+attachments:
+  body:
+    mimetype: text/markdown
+    filePath: body.md
+
