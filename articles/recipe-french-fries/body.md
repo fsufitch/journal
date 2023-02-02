@@ -90,24 +90,23 @@ Drip-dry them wish your strainer spoon, or get bonus points for patting them dry
    making a mess. Split them up into multiple batches if you have to.
 
 :::imagecard right puffy-fries.jpg
-Fries!
 :::
 
-7. Let them cook for 10-12 minutes. Stir and nudge the potatoes around the pot every couple minutes or so,
+1. Let them cook for 10-12 minutes. Stir and nudge the potatoes around the pot every couple minutes or so,
    to make sure they do not stick to each other, or to the pot.
 
-8. Cook until done. Some signs to look out for:
+2. Cook until done. Some signs to look out for:
    - They "ballooned" full of steam, and are floating.
    - They have a golden color, with a few touches of brown.
    - When you pick them up with the strainer spoon and rattle them around, they make dry, hollow sounds
      (as if they were peanuts or similar)
 
-9. Line a bowl with paper towels. Gently remove the potatoes from the pot and place them in the bowl.
+3. Line a bowl with paper towels. Gently remove the potatoes from the pot and place them in the bowl.
 
-10. Season __immediately__ with salt, pepper, and your spice mix. Toss the potatoes around to get an
+4.  Season __immediately__ with salt, pepper, and your spice mix. Toss the potatoes around to get an
     even coating. 
 
-11. Serve and enjoy your crunchy pouches of soft fluffy deliciousness!
+5.  Serve and enjoy your crunchy pouches of soft fluffy deliciousness!
 
 ::: imagecard center serving-photo.jpg
 :::
