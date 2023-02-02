@@ -13,7 +13,8 @@ categories:
   
   cuisine:
     name: Cuisine
-    articles: []
+    articles:
+      - recipe-french-fries
   
   gaming:
     name: Gaming

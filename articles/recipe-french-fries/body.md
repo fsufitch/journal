@@ -158,4 +158,4 @@ I highly recommend it as a source of great information on top-notch home cooking
 
 ----------
 
-I hope you enjoyed this write-up... and the fries themselves, of course. Until next time!
+I hope you enjoyed this little write-up... and the fries themselves, of course. Until next time!
