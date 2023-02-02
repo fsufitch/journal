@@ -1,0 +1,13 @@
+title: "Recipe: Filip's Famous French Fries" 
+blurb: |
+       Simple recipe for delicious wedge pub fries. 
+       Technically not famous (yet?), but alliteration is fun.
+
+bannerImageFilename: serving-photo.jpg
+createdOn: 02/02/2023
+
+attachments:
+  body:
+    mimetype: text/markdown
+    filePath: body.md
+
