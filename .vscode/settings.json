@@ -1,0 +1,31 @@
+{
+    "dev.containers.cacheVolume": true,
+    "git.enableCommitSigning": true,
+    "githubPullRequests.fileListLayout": "tree",
+    "json.maxItemsComputed": 10000,
+    "extensions.ignoreRecommendations": true,
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.startupEditor": "readme",
+    // Editor settings
+    "editor.suggest.preview": true,
+    "editor.formatOnSave": true,
+    "editor.autoIndent": "advanced",
+    "[dockerfile]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+    "[shellscript]": {
+        "editor.defaultFormatter": "foxundermoon.shell-format",
+        "files.eol": "\n"
+    },
+    "[markdown]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false,
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        }
+    },
+    "python.linting.enabled": false
+}

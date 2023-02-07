@@ -16,33 +16,14 @@
             // Add the IDs of extensions you want installed when the container is created.
             "extensions": [
                 "bungcip.better-toml",
-                "clinyong.vscode-css-modules",
-                "cschlosser.doxdocgen",
-                "dbaeumer.vscode-eslint",
                 "eamodio.gitlens",
-                "esbenp.prettier-vscode",
                 "foxundermoon.shell-format",
-                "github.vscode-pull-request-github",
-                "golang.go",
-                "jeff-hykin.better-cpp-syntax",
-                "mechatroner.rainbow-csv",
-                "mikestead.dotenv",
-                "mrmlnc.vscode-scss",
                 "ms-azuretools.vscode-docker",
-                "ms-python.isort",
-                "ms-python.python",
-                "ms-python.vscode-pylance",
-                "ms-toolsai.jupyter",
                 "ms-vscode.remote-repositories",
                 "redhat.vscode-xml",
                 "redhat.vscode-yaml",
-                "rvest.vs-code-prettier-eslint",
-                "syler.sass-indented",
-                "torn4dom4n.latex-support",
-                "twxs.cmake",
                 "wdhongtw.gpg-indicator",
-                "yzhang.markdown-all-in-one",
-                "zxh404.vscode-proto3"
+                "yzhang.markdown-all-in-one"
             ]
         }
     }
