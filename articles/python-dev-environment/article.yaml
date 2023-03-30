@@ -1,0 +1,15 @@
+title: Filip’s Awesome (Totally-Not-Overcomplicated) Python Dev Environment
+blurb: |
+       "What’s the best way to structure my Python dev environment? 
+       How do you install Python, and which version (and how do you switch versions)? 
+       How do you install and manage dependencies? 
+       What’s the best way to use virtualenvs (and what are they)?" Well... I'm glad you asked.
+
+bannerImageFilename: python-branch.jpg
+createdOn: 3/30/2023
+
+attachments:
+  body:
+    mimetype: text/markdown
+    filePath: body.md
+

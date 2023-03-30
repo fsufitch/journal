@@ -4,12 +4,14 @@ categories:
     articles:
       - first-post
       - what-is-api
+      - python-dev-environment
   
   software:
     name: Programming
     articles:
       - first-post
       - python-argparse
+      - python-dev-environment
   
   cuisine:
     name: Cuisine

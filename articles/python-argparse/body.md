@@ -103,14 +103,14 @@ print(result)
 
 Isn't that so much neater? Here are some (honestly, huge!) advantages that this approach has:
 
-* Validity checking of the arguments is done automatically; the operation *will* be one of the
+- Validity checking of the arguments is done automatically; the operation _will_ be one of the
   specified choices, there won't be more than one operation specified, there will only be two
   operands, and so forth.
-* The operands get converted into floats by the parser, so there's no need for you to do it yourself
+- The operands get converted into floats by the parser, so there's no need for you to do it yourself
   (and possibly get it wrong).
-* It supports multiple styles of specifying arguments! `-o+`, `-o '+'`, and `--operation=+` all work!
-* The second approach is far shorter.
-* It generates the help message for you! Check this out:
+- It supports multiple styles of specifying arguments! `-o+`, `-o '+'`, and `--operation=+` all work!
+- The second approach is far shorter.
+- It generates the help message for you! Check this out:
 
 ```
 $ python calculator.py --help

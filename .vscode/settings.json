@@ -27,5 +27,6 @@
             "other": "off"
         }
     },
-    "python.linting.enabled": false
+    "python.linting.enabled": false,
+    "markdown.extension.toc.updateOnSave": false
 }
