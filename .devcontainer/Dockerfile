@@ -38,3 +38,7 @@ RUN useradd -m -G wheel developer
 RUN printf '\n\ndeveloper ALL=(ALL) NOPASSWD: ALL\n' >> /etc/sudoers
 RUN chown developer:developer -R /home/developer
 USER developer
+
+# Various Python dependencies
+RUN python3 -m ensurepip
+RUN python3 -m pip install flake8 black 

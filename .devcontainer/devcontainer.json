@@ -15,16 +15,17 @@
         "vscode": {
             // Add the IDs of extensions you want installed when the container is created.
             "extensions": [
-                "bungcip.better-toml",
-                "eamodio.gitlens",
-                "foxundermoon.shell-format",
-                "ms-azuretools.vscode-docker",
-                "ms-vscode.remote-repositories",
-                "redhat.vscode-xml",
-                "redhat.vscode-yaml",
-                "wdhongtw.gpg-indicator",
-                "yzhang.markdown-all-in-one"
-            ]
+				"bungcip.better-toml",
+				"eamodio.gitlens",
+				"foxundermoon.shell-format",
+				"ms-azuretools.vscode-docker",
+				"ms-vscode.remote-repositories",
+				"redhat.vscode-xml",
+				"redhat.vscode-yaml",
+				"wdhongtw.gpg-indicator",
+				"yzhang.markdown-all-in-one",
+				"ms-python.flake8"
+			]
         }
     }
 }
